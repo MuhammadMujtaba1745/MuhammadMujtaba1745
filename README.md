@@ -7,7 +7,7 @@
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-mujtaba-b9b14436a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/MuhammadMujtiba1745)
 [![Status](https://img.shields.io/badge/Open_to-Entry--level_GIS_Roles-brightgreen)](#)
 
