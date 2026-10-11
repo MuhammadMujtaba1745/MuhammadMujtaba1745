@@ -1,25 +1,25 @@
-# 🌍 Hi there, I'm Muhammad Mujtiba 👋
+# 🌍 Hi there, I'm Muhammad Mujtaba 👋
 
-> **GIS & Remote Sensing Undergraduate | Geospatial Automation & Web Developer**
+> **GIS & Remote Sensing Undergraduate | Geospatial Analysis | Earth Observation**
 >
 > 📍 Islamabad, Pakistan  
-> ✉️ [1745muji@gmail.com](mailto:1745muji@gmail.com)  
+> ✉️ [1745muji@gmail.com](mailto:1745muji@gmail.com)
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-mujtaba-b9b14436a/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/MuhammadMujtiba1745)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-mujtaba1745/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/MuhammadMujtaba1745)
 [![Status](https://img.shields.io/badge/Open_to-Entry--level_GIS_Roles-brightgreen)](#)
 
 ---
 
 ## 🎯 About Me
 
-I am a **Remote Sensing & GIS undergraduate** with hands-on experience in satellite imagery analysis, Google Earth Engine, QGIS, ArcGIS workflows, and Python-based geospatial automation. I combine spatial analytics with full-stack web development and media production to build impactful digital tools and visualizations.
+I am a **Remote Sensing & GIS undergraduate** with practical experience in satellite imagery analysis, geospatial data processing, and cartography. I use Earth observation data and GIS tools to study environmental changes and spatial patterns.
 
-* 🎓 **Education:** BS Remote Sensing & GIS at COMSATS University (CGPA 3.14)
-* 🛰️ **Core Expertise:** Earth observation, NDVI/NDWI analysis, cartography, & spatial modeling
-* 💻 **Development:** Python automation scripts, Web GIS interfaces, & full-stack web apps
+* 🎓 **Education:** BS Remote Sensing & GIS at COMSATS University
+* 🛰️ **Core Expertise:** Earth observation, NDVI/NDWI analysis, cartography, and spatial analysis
+* 💻 **Programming:** Python for geospatial applications
 * 🏆 **Certification:** NASA ARSET — *Fundamentals of Remote Sensing*
 
 ---
@@ -28,47 +28,59 @@ I am a **Remote Sensing & GIS undergraduate** with hands-on experience in satell
 
 | Category | Skills & Technologies |
 | :--- | :--- |
-| **GIS & Remote Sensing** | ArcGIS, QGIS, Google Earth Engine, Web GIS, Cartography, Spatial Data Management |
-| **Programming & Automation** | Python, Geospatial Workflow Automation, PyQGIS, ArcPy |
-| **Web Development** | HTML, CSS, JavaScript, Front-end & Back-end Web Design |
-| **Domain Analytics** | Satellite Image Processing, Hydrology/Hydrogeology, Machine Learning, Land Use Classification |
+| **GIS & Remote Sensing** | ArcGIS, QGIS, Google Earth Engine, Cartography |
+| **Geospatial Analysis** | Satellite Image Processing, NDVI, NDWI, Spatial Analysis |
+| **Programming** | Python for Geospatial Applications |
+| **Environmental Applications** | Vegetation Monitoring, Flood Mapping, Glacier Research, Land Use/Land Cover Analysis |
 | **Media & Design** | Video Editing, Non-Linear Editing (NLE), Audio Mixing, Content Strategy |
 
 ---
 
 ## 🚀 Key Geospatial Projects
 
-### 🔮 Urbanization Growth Prediction
-* Built a machine learning model to project Islamabad's urban expansion through **2028** using multi-temporal satellite data and historical land-use patterns.
+### 🌆 Urban Growth Analysis — Islamabad
 
-### 🌳 Deforestation Analysis of Islamabad (NDVI)
-* Quantified vegetation loss across Islamabad between **2000–2010 vs. 2010–2020** by mapping NDVI change with Landsat imagery in Google Earth Engine.
+* Studied urban expansion patterns in Islamabad using satellite imagery and historical land-use information to examine changes in the built-up environment.
 
-### 🌊 Dubai Floods Mapping (NDWI)
-* Processed multi-band USGS satellite imagery in QGIS using the raster calculator to extract NDWI and map the extent of the **2024 Dubai flash floods**.
+### 🌳 Vegetation Change Analysis of Islamabad (NDVI)
 
-### ⚙️ GIS Workflow Customization
-* Authored custom Python tools inside GIS software to automate repetitive spatial analysis tasks, significantly improving data processing efficiency.
+* Analyzed vegetation patterns across Islamabad for **2000–2010 and 2010–2020** using NDVI and Landsat imagery in Google Earth Engine.
+
+### 🌊 Dubai Flood Extent Mapping (NDWI)
+
+* Used satellite imagery and the Normalized Difference Water Index (NDWI) in QGIS to examine water distribution associated with the **2024 Dubai floods**.
+
+### 🏔️ Glacier and Glacial Lake Research
+
+* Contributed to glacier- and glacial lake-related research during my remote sensing internship, using geospatial tools for environmental and meteorological monitoring.
 
 ---
 
 ## 💼 Experience Highlights
 
 * **Remote Sensing Intern** — *Pakistan Meteorological Department (PMD)* `(2025)`
-  * Researched glaciers, glacial lakes, and weather patterns through applied fieldwork.
-  * Integrated Google Earth Engine, QGIS, and ArcGIS for glacial and meteorological monitoring workflows.
+  * Researched glaciers, glacial lakes, and weather-related patterns.
+  * Worked with Google Earth Engine, QGIS, and ArcGIS for geospatial analysis and monitoring workflows.
 
 * **Freelance Web Developer** `(2026)`
-  * Designed and deployed responsive full-stack websites and custom UI/UX for local business clients.
+  * Worked on responsive website design and front-end development for local business projects.
 
-* **NLE & Headlines Producer** — *SUCH News* `(2022 – 2025)`
-  * Managed post-production, non-linear video editing, and audio mixing for live daily news broadcasts under strict deadlines.
+* **NLE & Headlines Producer** — *SUCH News* `(2022–2025)`
+  * Managed video post-production, non-linear editing, and audio mixing for daily news broadcasts under strict deadlines.
 
-* **Social Media Manager** — *Bon Wok* `(2024 – 2025)`
-  * Executed visual content strategies and increased audience engagement across digital platforms.
+* **Social Media Manager** — *Bon Wok* `(2024–2025)`
+  * Managed social media content, supported content planning, and contributed to digital audience engagement.
 
 ---
 
 ## 📜 Certifications
 
-* 🏅 **NASA ARSET** — *Fundamentals of Remote Sensing* (Spatial Data Analysis & Image Interpretation)
+* 🏅 **NASA ARSET** — *Fundamentals of Remote Sensing*
+
+---
+
+## 📫 Connect With Me
+
+* 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/muhammad-mujtaba1745/)
+* 💻 **GitHub:** [Explore my repositories](https://github.com/MuhammadMujtaba1745)
+* ✉️ **Email:** [1745muji@gmail.com](mailto:1745muji@gmail.com)
